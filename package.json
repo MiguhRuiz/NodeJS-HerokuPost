@@ -1,0 +1,27 @@
+{
+  "name": "herokupost",
+  "version": "1.0.0",
+  "description": "Example Node App for a post to \"Node for Begginers\" collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.13.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Galaxy42/NodeJS-HerokuPost.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "post"
+  ],
+  "author": "Miguh Ruiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Galaxy42/NodeJS-HerokuPost/issues"
+  },
+  "homepage": "https://github.com/Galaxy42/NodeJS-HerokuPost#readme"
+}
